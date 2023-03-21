@@ -1,0 +1,245 @@
+fathername=, slide=Mao0016_1_1.tiff ,conut=2,time=2023-03-19 15:42:02
+fathername=, slide=Mao0016_1_1.tiff ,conut=3,time=2023-03-19 15:44:36
+fathername=, slide=Mao0016_1_1.tiff ,conut=4,time=2023-03-19 15:44:43
+fathername=, slide=Mao0016_1_2.tiff ,conut=2,time=2023-03-19 15:48:24
+fathername=, slide=Mao0016_1_3.tiff ,conut=2,time=2023-03-19 15:49:25
+fathername=, slide=Mao0016_1_3.tiff ,conut=3,time=2023-03-19 15:57:29
+fathername=, slide=Mao0016_1_2.tiff ,conut=3,time=2023-03-19 15:57:33
+fathername=, slide=Mao0016_1_3.tiff ,conut=4,time=2023-03-19 15:57:45
+fathername=, slide=Mao0016_1_2.tiff ,conut=4,time=2023-03-19 15:57:47
+fathername=delete, slide=Mao0016_1_4.tiff ,conut=2,time=2023-03-19 16:04:52
+fathername=delete, slide=Mao0016_1_5.tiff ,conut=2,time=2023-03-19 16:04:56
+fathername=delete, slide=Mao0016_1_5.tiff ,conut=3,time=2023-03-19 16:13:40
+fathername=delete, slide=Mao0016_1_4.tiff ,conut=3,time=2023-03-19 16:13:44
+fathername=delete, slide=Mao0016_1_5.tiff ,conut=4,time=2023-03-19 16:13:57
+===========》Mao0016_1_5.tiff诊断结束《===========
+fathername=delete, slide=Mao0016_1_4.tiff ,conut=4,time=2023-03-19 16:13:58
+===========》Mao0016_1_4.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_2.tiff ,conut=2,time=2023-03-20 09:30:08
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_1.tiff ,conut=2,time=2023-03-20 09:30:12
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_2.tiff ,conut=3,time=2023-03-20 09:34:22
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_1.tiff ,conut=3,time=2023-03-20 09:34:24
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_2.tiff ,conut=4,time=2023-03-20 09:34:30
+===========》231-TestB202332078_1_2.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_1.tiff ,conut=4,time=2023-03-20 09:34:32
+===========》231-TestB202332078_1_1.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_4.tiff ,conut=2,time=2023-03-20 09:35:16
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_3.tiff ,conut=2,time=2023-03-20 09:35:37
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_4.tiff ,conut=3,time=2023-03-20 09:40:12
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_3.tiff ,conut=3,time=2023-03-20 09:40:13
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_4.tiff ,conut=4,time=2023-03-20 09:40:19
+===========》231-TestB202332078_1_4.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_3.tiff ,conut=4,time=2023-03-20 09:40:20
+===========》231-TestB202332078_1_3.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_6.tiff ,conut=2,time=2023-03-20 09:41:43
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_5.tiff ,conut=2,time=2023-03-20 09:41:45
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_6.tiff ,conut=3,time=2023-03-20 09:46:32
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_5.tiff ,conut=3,time=2023-03-20 09:46:34
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_6.tiff ,conut=4,time=2023-03-20 09:46:39
+===========》231-TestB202332078_1_6.tiff诊断结束《===========
+fathername=231-TestB202332078.tiff, slide=231-TestB202332078_1_5.tiff ,conut=4,time=2023-03-20 09:46:48
+===========》231-TestB202332078_1_5.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_1.tiff ,conut=2,time=2023-03-20 09:48:34
+fathername=Mao0017.tiff, slide=Mao0017_1_2.tiff ,conut=2,time=2023-03-20 09:49:27
+fathername=Mao0017.tiff, slide=Mao0017_1_1.tiff ,conut=3,time=2023-03-20 09:57:15
+fathername=Mao0017.tiff, slide=Mao0017_1_2.tiff ,conut=3,time=2023-03-20 09:57:19
+fathername=Mao0017.tiff, slide=Mao0017_1_1.tiff ,conut=4,time=2023-03-20 09:57:30
+===========》Mao0017_1_1.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_2.tiff ,conut=4,time=2023-03-20 09:57:37
+===========》Mao0017_1_2.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_3.tiff ,conut=2,time=2023-03-20 09:59:51
+fathername=Mao0017.tiff, slide=Mao0017_1_4.tiff ,conut=2,time=2023-03-20 10:00:10
+fathername=Mao0017.tiff, slide=Mao0017_1_3.tiff ,conut=3,time=2023-03-20 10:08:33
+fathername=Mao0017.tiff, slide=Mao0017_1_4.tiff ,conut=3,time=2023-03-20 10:08:36
+fathername=Mao0017.tiff, slide=Mao0017_1_3.tiff ,conut=4,time=2023-03-20 10:08:49
+===========》Mao0017_1_3.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_4.tiff ,conut=4,time=2023-03-20 10:08:52
+===========》Mao0017_1_4.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_5.tiff ,conut=2,time=2023-03-20 10:10:49
+fathername=delete, slide=20-58917-2_1_1.tiff ,conut=2,time=2023-03-20 10:11:07
+fathername=Mao0017.tiff, slide=Mao0017_1_5.tiff ,conut=3,time=2023-03-20 10:19:05
+fathername=delete, slide=20-58917-2_1_1.tiff ,conut=3,time=2023-03-20 10:19:08
+fathername=delete, slide=20-58917-2_1_1.tiff ,conut=4,time=2023-03-20 10:19:16
+===========》20-58917-2_1_1.tiff诊断结束《===========
+fathername=Mao0017.tiff, slide=Mao0017_1_5.tiff ,conut=4,time=2023-03-20 10:19:29
+===========》Mao0017_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-58917-2_1_2.tiff ,conut=2,time=2023-03-20 10:22:15
+fathername=delete, slide=20-58917-2_1_3.tiff ,conut=2,time=2023-03-20 10:22:34
+fathername=delete, slide=20-58917-2_1_3.tiff ,conut=3,time=2023-03-20 10:32:03
+fathername=delete, slide=20-58917-2_1_2.tiff ,conut=3,time=2023-03-20 10:32:08
+fathername=delete, slide=20-58917-2_1_3.tiff ,conut=4,time=2023-03-20 10:32:16
+===========》20-58917-2_1_3.tiff诊断结束《===========
+fathername=delete, slide=20-58917-2_1_2.tiff ,conut=4,time=2023-03-20 10:32:30
+===========》20-58917-2_1_2.tiff诊断结束《===========
+fathername=delete, slide=20-58917-2_1_4.tiff ,conut=2,time=2023-03-20 10:34:53
+fathername=delete, slide=20-58917-2_1_5.tiff ,conut=2,time=2023-03-20 10:36:06
+fathername=delete, slide=20-58917-2_1_5.tiff ,conut=3,time=2023-03-20 10:45:24
+fathername=delete, slide=20-58917-2_1_4.tiff ,conut=3,time=2023-03-20 10:45:29
+fathername=delete, slide=20-58917-2_1_4.tiff ,conut=4,time=2023-03-20 10:45:41
+===========》20-58917-2_1_4.tiff诊断结束《===========
+fathername=delete, slide=20-58917-2_1_5.tiff ,conut=4,time=2023-03-20 10:45:43
+===========》20-58917-2_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-58917-2_1_6.tiff ,conut=2,time=2023-03-20 10:47:18
+fathername=delete, slide=20-58917-2_1_6.tiff ,conut=3,time=2023-03-20 10:50:37
+fathername=delete, slide=20-58917-2_1_6.tiff ,conut=4,time=2023-03-20 10:50:45
+===========》20-58917-2_1_6.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_1.tiff ,conut=2,time=2023-03-20 11:32:44
+fathername=delete, slide=20-59487_1_2.tiff ,conut=2,time=2023-03-20 11:35:32
+fathername=delete, slide=20-59487_1_1.tiff ,conut=3,time=2023-03-20 11:47:57
+fathername=delete, slide=20-59487_1_2.tiff ,conut=3,time=2023-03-20 11:48:08
+fathername=delete, slide=20-59487_1_1.tiff ,conut=4,time=2023-03-20 11:48:21
+===========》20-59487_1_1.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_3.tiff ,conut=2,time=2023-03-20 11:50:19
+fathername=delete, slide=20-59487_1_2.tiff ,conut=4,time=2023-03-20 11:54:29
+===========》20-59487_1_2.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_3.tiff ,conut=3,time=2023-03-20 11:54:41
+fathername=delete, slide=20-59487_1_4.tiff ,conut=2,time=2023-03-20 11:57:30
+fathername=delete, slide=20-59487_1_3.tiff ,conut=4,time=2023-03-20 12:03:14
+===========》20-59487_1_3.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_5.tiff ,conut=2,time=2023-03-20 12:04:46
+fathername=delete, slide=20-59487_1_4.tiff ,conut=3,time=2023-03-20 12:04:59
+fathername=delete, slide=20-59487_1_5.tiff ,conut=3,time=2023-03-20 12:11:07
+fathername=delete, slide=20-59487_1_4.tiff ,conut=4,time=2023-03-20 12:11:24
+===========》20-59487_1_4.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_5.tiff ,conut=4,time=2023-03-20 12:11:43
+===========》20-59487_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-59487_1_6.tiff ,conut=2,time=2023-03-20 12:14:30
+fathername=delete, slide=20-59487_1_6.tiff ,conut=3,time=2023-03-20 12:18:54
+fathername=delete, slide=20-59487_1_6.tiff ,conut=4,time=2023-03-20 12:19:13
+===========》20-59487_1_6.tiff诊断结束《===========
+fathername=, slide=Small-4-202035921.tiff ,conut=2,time=2023-03-20 13:55:36
+fathername=, slide=Small-4-202035921.tiff ,conut=3,time=2023-03-20 13:56:59
+fathername=, slide=Small-4-202035921.tiff ,conut=4,time=2023-03-20 13:57:01
+===========》Small-4-202035921.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_2.tiff ,conut=2,time=2023-03-20 14:04:18
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_1.tiff ,conut=2,time=2023-03-20 14:04:21
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_2.tiff ,conut=3,time=2023-03-20 14:08:24
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_1.tiff ,conut=3,time=2023-03-20 14:08:25
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_2.tiff ,conut=4,time=2023-03-20 14:08:31
+===========》331-TestB202332078_1_2.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_1.tiff ,conut=4,time=2023-03-20 14:08:34
+===========》331-TestB202332078_1_1.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_4.tiff ,conut=2,time=2023-03-20 14:09:31
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_3.tiff ,conut=2,time=2023-03-20 14:09:44
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_4.tiff ,conut=3,time=2023-03-20 14:14:15
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_3.tiff ,conut=3,time=2023-03-20 14:14:17
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_4.tiff ,conut=4,time=2023-03-20 14:14:23
+===========》331-TestB202332078_1_4.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_3.tiff ,conut=4,time=2023-03-20 14:14:24
+===========》331-TestB202332078_1_3.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_6.tiff ,conut=2,time=2023-03-20 14:15:49
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_5.tiff ,conut=2,time=2023-03-20 14:15:49
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_6.tiff ,conut=3,time=2023-03-20 14:20:38
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_5.tiff ,conut=3,time=2023-03-20 14:20:44
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_6.tiff ,conut=4,time=2023-03-20 14:20:45
+===========》331-TestB202332078_1_6.tiff诊断结束《===========
+fathername=331-TestB202332078.tiff, slide=331-TestB202332078_1_5.tiff ,conut=4,time=2023-03-20 14:20:47
+===========》331-TestB202332078_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_1.tiff ,conut=2,time=2023-03-20 14:45:37
+fathername=delete, slide=20-57029二_1_2.tiff ,conut=2,time=2023-03-20 14:49:02
+fathername=delete, slide=20-57029二_1_1.tiff ,conut=3,time=2023-03-20 14:54:57
+fathername=delete, slide=20-57029二_1_2.tiff ,conut=3,time=2023-03-20 14:55:03
+fathername=delete, slide=20-57029二_1_1.tiff ,conut=4,time=2023-03-20 14:55:09
+===========》20-57029二_1_1.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_3.tiff ,conut=2,time=2023-03-20 14:56:34
+fathername=delete, slide=20-57029二_1_2.tiff ,conut=4,time=2023-03-20 14:59:52
+===========》20-57029二_1_2.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_3.tiff ,conut=3,time=2023-03-20 14:59:55
+fathername=delete, slide=20-57029二_1_4.tiff ,conut=2,time=2023-03-20 15:01:22
+fathername=delete, slide=20-57029二_1_4.tiff ,conut=3,time=2023-03-20 15:04:33
+fathername=delete, slide=20-57029二_1_3.tiff ,conut=4,time=2023-03-20 15:04:35
+===========》20-57029二_1_3.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_5.tiff ,conut=2,time=2023-03-20 15:06:37
+fathername=delete, slide=20-57029二_1_4.tiff ,conut=4,time=2023-03-20 15:10:35
+===========》20-57029二_1_4.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_6.tiff ,conut=2,time=2023-03-20 15:11:55
+fathername=delete, slide=20-57029二_1_5.tiff ,conut=3,time=2023-03-20 15:14:55
+fathername=delete, slide=20-57029二_1_6.tiff ,conut=3,time=2023-03-20 15:15:22
+fathername=delete, slide=20-57029二_1_5.tiff ,conut=4,time=2023-03-20 15:15:39
+===========》20-57029二_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-57029二_1_6.tiff ,conut=4,time=2023-03-20 15:15:41
+===========》20-57029二_1_6.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_1.tiff ,conut=2,time=2023-03-20 15:17:00
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_2.tiff ,conut=2,time=2023-03-20 15:17:05
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_2.tiff ,conut=3,time=2023-03-20 15:21:29
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_1.tiff ,conut=3,time=2023-03-20 15:21:30
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_2.tiff ,conut=4,time=2023-03-20 15:21:35
+===========》341-TestB202332078_1_2.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_1.tiff ,conut=4,time=2023-03-20 15:21:40
+===========》341-TestB202332078_1_1.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_4.tiff ,conut=2,time=2023-03-20 15:22:26
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_3.tiff ,conut=2,time=2023-03-20 15:22:45
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_4.tiff ,conut=3,time=2023-03-20 15:27:20
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_3.tiff ,conut=3,time=2023-03-20 15:27:21
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_4.tiff ,conut=4,time=2023-03-20 15:27:27
+===========》341-TestB202332078_1_4.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_3.tiff ,conut=4,time=2023-03-20 15:27:28
+===========》341-TestB202332078_1_3.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_6.tiff ,conut=2,time=2023-03-20 15:28:58
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_5.tiff ,conut=2,time=2023-03-20 15:29:02
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_6.tiff ,conut=3,time=2023-03-20 15:33:43
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_5.tiff ,conut=3,time=2023-03-20 15:33:45
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_6.tiff ,conut=4,time=2023-03-20 15:33:51
+===========》341-TestB202332078_1_6.tiff诊断结束《===========
+fathername=341-TestB202332078.tiff, slide=341-TestB202332078_1_5.tiff ,conut=4,time=2023-03-20 15:33:54
+===========》341-TestB202332078_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_1.tiff ,conut=2,time=2023-03-20 17:45:36
+fathername=delete, slide=20-58802-1_1_2.tiff ,conut=2,time=2023-03-20 17:46:04
+fathername=delete, slide=20-58802-1_1_1.tiff ,conut=3,time=2023-03-20 18:00:44
+fathername=delete, slide=20-58802-1_1_2.tiff ,conut=3,time=2023-03-20 18:00:52
+fathername=delete, slide=20-58802-1_1_2.tiff ,conut=4,time=2023-03-20 18:01:18
+===========》20-58802-1_1_2.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_1.tiff ,conut=4,time=2023-03-20 18:01:21
+===========》20-58802-1_1_1.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_3.tiff ,conut=2,time=2023-03-20 18:04:17
+fathername=delete, slide=20-58802-1_1_4.tiff ,conut=2,time=2023-03-20 18:05:30
+fathername=delete, slide=20-58802-1_1_3.tiff ,conut=3,time=2023-03-20 18:15:06
+fathername=delete, slide=20-58802-1_1_4.tiff ,conut=3,time=2023-03-20 18:15:12
+fathername=delete, slide=20-58802-1_1_3.tiff ,conut=4,time=2023-03-20 18:15:31
+===========》20-58802-1_1_3.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_4.tiff ,conut=4,time=2023-03-20 18:15:36
+===========》20-58802-1_1_4.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_5.tiff ,conut=2,time=2023-03-20 18:19:24
+fathername=delete, slide=20-58802-1_1_6.tiff ,conut=2,time=2023-03-20 18:20:26
+fathername=delete, slide=20-58802-1_1_5.tiff ,conut=3,time=2023-03-20 18:32:08
+fathername=delete, slide=20-58802-1_1_6.tiff ,conut=3,time=2023-03-20 18:32:14
+fathername=delete, slide=20-58802-1_1_5.tiff ,conut=4,time=2023-03-20 18:32:32
+===========》20-58802-1_1_5.tiff诊断结束《===========
+fathername=delete, slide=20-58802-1_1_6.tiff ,conut=4,time=2023-03-20 18:32:38
+===========》20-58802-1_1_6.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_1.tiff ,conut=2,time=2023-03-20 18:33:44
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_2.tiff ,conut=2,time=2023-03-20 18:34:22
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_1.tiff ,conut=3,time=2023-03-20 18:38:24
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_2.tiff ,conut=3,time=2023-03-20 18:38:27
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_2.tiff ,conut=4,time=2023-03-20 18:38:34
+===========》351-一TestB202332078_1_2.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_1.tiff ,conut=4,time=2023-03-20 18:38:36
+===========》351-一TestB202332078_1_1.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_4.tiff ,conut=2,time=2023-03-20 18:39:26
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_3.tiff ,conut=2,time=2023-03-20 18:39:50
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_4.tiff ,conut=3,time=2023-03-20 18:44:28
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_3.tiff ,conut=3,time=2023-03-20 18:44:29
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_4.tiff ,conut=4,time=2023-03-20 18:44:35
+===========》351-一TestB202332078_1_4.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_3.tiff ,conut=4,time=2023-03-20 18:44:36
+===========》351-一TestB202332078_1_3.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_5.tiff ,conut=2,time=2023-03-20 18:46:13
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_6.tiff ,conut=2,time=2023-03-20 18:46:15
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_6.tiff ,conut=3,time=2023-03-20 18:50:48
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_5.tiff ,conut=3,time=2023-03-20 18:50:50
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_5.tiff ,conut=4,time=2023-03-20 18:50:54
+===========》351-一TestB202332078_1_5.tiff诊断结束《===========
+fathername=351-一TestB202332078.tiff, slide=351-一TestB202332078_1_6.tiff ,conut=4,time=2023-03-20 18:50:56
+===========》351-一TestB202332078_1_6.tiff诊断结束《===========
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_1.tiff ,conut=2,time=2023-03-20 18:52:24
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_2.tiff ,conut=2,time=2023-03-20 18:52:28
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_2.tiff ,conut=3,time=2023-03-20 18:56:44
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_1.tiff ,conut=3,time=2023-03-20 18:56:49
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_2.tiff ,conut=4,time=2023-03-20 18:56:54
+===========》361-一TestB202332078_1_2.tiff诊断结束《===========
+fathername=361-一TestB202332078.tiff, slide=361-一TestB202332078_1_1.tiff ,conut=4,time=2023-03-20 18:56:55
+===========》361-一TestB202332078_1_1.tiff诊断结束《===========
+fathername=, slide=20-59002_1_2.tiff ,conut=2,time=2023-03-20 18:57:12
+fathername=, slide=20-59002_1_2.tiff ,conut=3,time=2023-03-20 18:58:15
+fathername=, slide=20-59002_1_2.tiff ,conut=4,time=2023-03-20 18:58:18
+===========》20-59002_1_2.tiff诊断结束《===========

@@ -1,0 +1,12 @@
+{
+	"Host": "127.0.0.1:7100",
+	"Paths": [
+		{
+			"NeedReplacePath": "/",
+			"RealPath": "/home/thearay/DataSet/",
+			"SlideType": "tiff"
+		}
+	],
+	"Listen": "0.0.0.0:8814",
+	"IsDebug": false
+}
